@@ -1,0 +1,8 @@
+- Qual é a função principal do Maven no desenvolvimento da aplicação?
+R: Gerenciar dependências e fazer o build
+
+- Qual é a diferença entre empacotamento via JAR e via WAR em uma aplicação Spring Boot?
+R: O empacotamento via WAR requer um servidor para rodar a aplicação, enquanto o empacotamento via JAR não.
+
+- Qual é o propósito de uma controller no contexto do Spring Boot?
+R: Processar as requisições HTTP e atuar com a primeira camada de acesso do usuário à aplicação.
